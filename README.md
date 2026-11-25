@@ -1,16 +1,36 @@
-## Hi there 👋
+# Bienvenue sur mon profil GitHub
 
-<!--
-**maximharris-png/maximharris-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Developeur Web et Web Mobile en formation au sein de l'IMTS
+*Bienvenue dans mon univers de developeur web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🟪☂️ Actuellement en formation **Developeur Web et Web Mobile (dwwm)**, je devellope mes competences dans la creation de sites et d'applications web.
+
+
+j'aime apprendre, expérimenter et relever de nouveau defis techniques.
+
+
+-En formation DWWM
+-En formation web front-end et back-end
+-En constante progression
+-Objectif : devenir une star du code
+
+
+## Mes compétences :
+**Languages et technologies**
+HTML 5
+CSS3
+JavaScript
+Git
+GitHub
+UI et UX design
+## Mes projects
+| Projet | Description |
+|---|---|
+|[dwwm-tp](https://github.com/maximharris-png/dwwm-tp) | Traveaux pratiques de la formation |
+
+
+## Mes objectifs 
+Approfondir mes connaissances en JavaScript
+Merci de visiter mon profil Github
